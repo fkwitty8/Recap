@@ -1,5 +1,5 @@
     class Node{
-    int Dta;
+    int Data;
     Node NextNode;
     Node(int data){
         this.Data=data;
