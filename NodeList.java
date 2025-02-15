@@ -14,7 +14,7 @@ public class NodeList {
 	void addNode(int NodeData){
 
 
-	    Node NoVariable;
+	    Node Nodeariable;
 
 	    System.out.println("Hello2");
 	    if(Head== null){
