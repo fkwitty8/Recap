@@ -12,7 +12,7 @@ public class NodeList {
 	Node Head;
 	
 	void addNode(int NodeData){
-	    Node NoVariable;
+	    Node NodeVariable;
 	    System.out.println("Hello2");
 	    if(Head== null){
 	         System.out.println("Hello3");
