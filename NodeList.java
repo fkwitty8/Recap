@@ -9,7 +9,7 @@
 
 
 public class NodeList {
-	Node Head;
+	Node 
 	
 	void addNode(int NodeData){
 
